@@ -1,0 +1,23 @@
+{
+    "nombre": "Lian Iribarne",
+    "titulo": "Full Stack Developer Jr",
+    "ubi": "TdF Arg",
+    "edit": "https://raw.githubusercontent.com/LI-44/Portfolio.F./a5ef0763c91c78ade30f17ae429be6458946766d/edit.svg",
+    "trash": "https://raw.githubusercontent.com/LI-44/Portfolio.F./a5ef0763c91c78ade30f17ae429be6458946766d/trash.svg",
+    "img": "https://github.com/LI-44/Portfolio.F./blob/main/Screenshot_3.png?raw=true",
+    "banner": "https://github.com/LI-44/Portfolio.F./blob/main/430921.png?raw=true",
+    "acercaDe": "Acerca de",
+    "acercaDeText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit excepturi illum nulla eos deleniti autem officiis error inventore cupiditate saepe et officia fugiat dicta quis earum, ducimus nobis aspernatur hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias a iusto, animi eos cum sequi ut dignissimos dicta expedita autem fuga nihil debitis consectetur illo voluptatibus esse aspernatur distinctio delectus?",
+    "edu": "Educación",
+    "eduText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, odio vel? At laudantium nemo, illum unde quas, odit maiores fugit dolore cupiditate error quidem ex quia dicta adipisci quis accusantium?",
+    "exp": "Experiencia",
+    "expText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio quos dolores voluptate ipsum reprehenderit. Molestias nihil voluptatum facere perspiciatis necessitatibus pariatur eum ea cumque, ullam voluptas quas quidem omnis nemo?",
+    "hss": "Hard & Soft Skills",
+    "hss1": "Algo 1",
+    "hss2": "Algo 2",
+    "hss3": "Algo 3",
+    "hss4": "Algo 4",
+    "hss5": "Algo 5",
+    "proy": "Proyectos",
+    "proyText": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed error velit, obcaecati eius iste est? Pariatur voluptas ea itaque exercitationem, incidunt nisi quae id aperiam iste, odio, recusandae ad aliquam."
+}
